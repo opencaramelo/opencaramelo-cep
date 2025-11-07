@@ -77,17 +77,17 @@ Abra uma **issue** no GitHub e nos avise. Vamos adorar corrigir!
 
 ### 💡 Tem sugestões ou ideias?
 
-Mande um chamado ou crie uma issue — seu feedback ajuda muito a melhorar o OpenBrazuca-cep!
+Mande um chamado ou crie uma issue — seu feedback ajuda muito a melhorar o Opencaramelo-cep!
 
 ### 🍺 Quer apoiar o projeto?
 
-Dar um ⭐ no GitHub ou contribuir ajuda a manter o OpenBrazuca ativo e disponível para a comunidade.
+Dar um ⭐ no GitHub ou contribuir ajuda a manter o Opencaramelo ativo e disponível para a comunidade.
 
 Obrigado pelo apoio! 🙌
 
 ### Quer apoiar ainda mais o projeto?
 
-Se o OpenBrazuca-cep está sendo útil para você e **quiser me pagar uma cerveja 🍺**, você pode contribuir clicando aqui:
+Se o Opencaramelo-cep está sendo útil para você e **quiser me pagar uma cerveja 🍺**, você pode contribuir clicando aqui:
 
 ### Não é obrigatório, mas qualquer ajuda mantém o projeto ativo e disponível para a comunidade!  
 ### Também vale dar um ⭐ no GitHub 😉
